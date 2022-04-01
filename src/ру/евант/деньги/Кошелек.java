@@ -27,11 +27,12 @@ public class Кошелек {
     private String шт = "шт.";
 
     private int количествоМонетКопейки = 0;
-    private int количествоМонетРубли = 0;
-    private int количествоКупюр = 0;
-
     private double балансМонетКопейки = 0;
+
+    private int количествоМонетРубли = 0;
     private double балансМонетРубли = 0;
+
+    private int количествоКупюр = 0;
     private double балансКупюр = 0;
 
     private double балансДенегВКошельке = 0;
